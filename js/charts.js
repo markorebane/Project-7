@@ -90,11 +90,13 @@ let dailyData = {
     scales: { y: {
            beginAtZero: true
          }
-    }, plugins: {
+    }, 
+    plugins: {
     legend: {
            display: false
          }
-    } };
+    }
+  };
   
 
     
